@@ -6,6 +6,7 @@ It is made to let user navigate through directories easily without much complexi
 First, make sure you have all the requirements:
 - fzf
 - cd
+
 While cd is most likely already available in your system, you can install fzf in most package management tools.
 For example, to install fzf on a Debian-based system, you can use the command:
 ```
