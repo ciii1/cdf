@@ -34,7 +34,7 @@ For example, to search a directory with the path `~/foobar/foo/bar/` and navigat
 ```
 cdf bar
 ```
-A list of possible paths to navigate to will be shown. Select "/home/user/foobar/foo/bar/" and you're now in the directory.
+A list of possible paths to navigate to will be shown. Select `/home/user/foobar/foo/bar/` and you're now in the directory.
 
 Suppose if you're in a different directory, say `~/different_dir/` and you want to navigate to `~/foobar/foo/bar`:
 ```
