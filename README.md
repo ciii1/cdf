@@ -1,6 +1,6 @@
 # cdf
 cdf is a bash command that utilizes fzf to search directories recursively and then utilizes cd to navigate to the selected path.
-It is made to let user navigate through directories easily without much complications that programs like zoxide and autojump have.
+It is made to let user navigate through directories easily without much complexity that programs like zoxide and autojump have.
 
 ## Installation
 First, make sure you have all the requirements:
