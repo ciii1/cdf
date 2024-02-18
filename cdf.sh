@@ -8,5 +8,5 @@ cdf() {
         curr_dir="."
     fi
 
-    dir=$(find "$curr_dir" -type d 2> /dev/null | fzf +m --query "$1") && cd "$dir" || return
+    dir=$(find "$curr_dir" -type d 2> /dev/null | fzf +m --delimiter="/" --query "$1") && cd "$dir" || return
 }
