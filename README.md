@@ -9,7 +9,7 @@ First, make sure you have all the requirements:
 - find
 
 While cd is most likely already available in your system, you can install fzf and find in most package management tools.
-For example, to install fzf on a Debian-based system, you can use the command:
+For example, to install fzf and find on a Debian-based system, you can use the command:
 ```
 sudo apt install fzf
 sudo apt install find
