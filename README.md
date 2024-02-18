@@ -18,7 +18,7 @@ sudo pacman -S fzf
 ```
 
 Next, you're ready to make cdf available in your system. The "installation" is straightforward. 
-Open the cdf file in this repository and append its content to your own bashrc file.
+Open the `cdf.sh` file in this repository and append its content to your own bashrc file.
 
 Done, you're ready to use cdf.
 
