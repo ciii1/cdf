@@ -27,13 +27,13 @@ cdf takes two arguments, respectively:
 - The query to search
 - The directory to perform search on
 
-For example, to search a directory with the path `~/foobar/foo/bar/` and navigate to it while you're in the home directory:
+For example, to search a directory with the path `\~/foobar/foo/bar/` and navigate to it while you're in the home directory:
 ```
 cdf bar
 ```
 A list of possible paths to navigate to will be shown. Select "/home/user/foobar/foo/bar/" and you're now in the directory.
 
-Suppose if you're in a different directory, say `~/different_dir/" and you want to navigate to "~/foobar/foo/bar":
+Suppose if you're in a different directory, say `\~/different_dir/" and you want to navigate to "\~/foobar/foo/bar":
 ```
 cdf bar ~/
 ```
