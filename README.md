@@ -37,5 +37,8 @@ Suppose if you're in a different directory, say `~/different_dir/" and you want 
 cdf bar ~/
 ```
 
+## Contributing
+Despite the size of the project, your contributions are welcome, even if it's just a minor fix on the wording or grammar in the README file.
+
 ## License
 It is licensed under the WTFPL lisence.
