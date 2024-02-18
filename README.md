@@ -28,7 +28,7 @@ Done, you're ready to use cdf.
 ## Usage
 cdf takes two arguments, respectively:
 - The query to search
-- The directory to perform search on
+- The directory to perform search on. If not provided, default to `./`
 
 For example, to search a directory with the path `~/foobar/foo/bar/` and navigate to it while you're in the home directory:
 ```
