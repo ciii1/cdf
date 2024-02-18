@@ -6,15 +6,18 @@ It is made to let user navigate through directories easily without much complexi
 First, make sure you have all the requirements:
 - fzf
 - cd
+- find
 
-While cd is most likely already available in your system, you can install fzf in most package management tools.
+While cd is most likely already available in your system, you can install fzf and find in most package management tools.
 For example, to install fzf on a Debian-based system, you can use the command:
 ```
 sudo apt install fzf
+sudo apt install find
 ```
 or on an Arch-based system:
 ```
 sudo pacman -S fzf
+sudo pacman -S find
 ```
 
 Next, you're ready to make cdf available in your system. The "installation" is straightforward. 
